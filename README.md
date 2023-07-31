@@ -3,18 +3,16 @@
 </div>
   
 
-### <div align="center">I'm Mateus Marques, a full-time developer 👨‍💻 and crypto maximalist since 2017 🚀</div>  
+### <div align="center">I'm Mateus Marques, a quantitative developer 👨‍💻 and crypto maximalist since 2017 🚀</div>  
   
-
+<br/>
 - 🔭 I’m currently working on [Hoffman - IRB](https://github.com/m-marqx/Hoffman-IRB)  
-  
-
 - 🌱 I’m currently learning Machine Learning  
-  
-
+- 📫 How to reach me: I always respond to my DMs on Instagram.
 - ⚡ Fun fact I: I use hanging indentation.
-- ⚡ Fun fact II: I use VS Code even for Jupyter Notebook files.  
-  
+- ⚡ Fun fact II: I use VS Code even for Jupyter Notebook files.
+
+
 
 <br/>  
 
@@ -30,7 +28,5 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://streak-stats.demolab.com?user=m-marqx&theme=transparent&hide_border=true&border_radius=&locale=pt_BR&mode=weekly" align="right" style="width: 100%" />
 <br />
-
-----
