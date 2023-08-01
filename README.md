@@ -13,18 +13,23 @@
 
 <br/>  
 
+## 📷 Social-Media
+
 <div align="center">
 <a href="https://github.com/m-marqx" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; width=10%" />
 </a>
 <a href="https://instagram.com/archie_marques" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; width=10%" />
 </a>  
 </div>  
   
 
 <br/>  
 
+
+
+## 📈 GitHub Stats
 <!-- GitHub stats -->
   <a href="https://github.com/m-marqx/" />
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" style="width: 33%" />
