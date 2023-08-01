@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🔋 Atividade
+## ⚙️ Atividade
 <!-- GitHub Streaks (Default) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
   <img src="https://streak-stats.demolab.com/?user=m-marqx&theme=github-dark&hide_border=true&border_radius=20&locale=pt_BR&mode=weekly&type=svg align="center" style="width: 100%" />
@@ -30,7 +30,7 @@
 
 <br/>  
 
-## 📈 Estatísticas
+## 📊 Estatísticas
 
 <!-- GitHub stats (Default) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
