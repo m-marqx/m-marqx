@@ -53,6 +53,6 @@
 <br>
 <!-- Hoffman-irb (Light Theme) -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" /> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Lolalytics-Tierlist-Analyzer&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" style="width: 45%" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Lolalytics-Tierlist-Analyzer&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" style="width: 45%" /> 
 </a>
