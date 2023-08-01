@@ -32,18 +32,17 @@
 
 
 <!-- GitHub stats (Default) -->
-  <a href="https://github.com/m-marqx/" >
+  <a href="https://github.com/m-marqx/">
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
-          <img src="https://github-readme-stats.vercel.app/api?username=m-marqx&locale=pt-BR&hide=stars,issues&hide_rank=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" style="width: 33%" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&locale=pt-BR&layout=compact&hide=Jupyter%20Notebook&theme=dark#gh-dark-mode-only" alt="Top Langs" style="width: 33%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=m-marqx&locale=pt-BR&hide=stars,issues&hide_rank=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" style="width: 45%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&locale=pt-BR&layout=compact&hide=Jupyter%20Notebook&theme=dark#gh-dark-mode-only" alt="Top Langs" style="width: 45%" />
       </a>
   </a>
-
 <!-- GitHub stats (Light Theme) -->
-  <a href="https://github.com/m-marqx" />
+  <a href="https://github.com/m-marqx">
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" >
-          <img src="https://github-readme-stats.vercel.app/api?username=m-marqx&locale=pt-BR&hide=stars,issues&hide_rank=true&theme=default#gh-light-mode-only" alt="GitHub Stats" style="width: 33%" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&locale=pt-BR&layout=compact&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only" alt="Top Langs" style="width: 33%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=m-marqx&locale=pt-BR&hide=stars,issues&hide_rank=true&theme=default#gh-light-mode-only" alt="GitHub Stats" style="width: 45%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&locale=pt-BR&layout=compact&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only" alt="Top Langs" style="width: 45%" />
       </a>
   </a>
 
@@ -51,14 +50,16 @@
 <!-- Hoffman-irb Repo -->
   <a href="https://github.com/m-marqx/Hoffman-IRB" />
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Dark Theme" style="width: 33%" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" />  
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Lolalytics-Tierlist-Analyzer&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" /> 
       </a>
   </a>
-  
+
+<br>
 <!-- Hoffman-irb (Light Theme) -->
   <a href="https://github.com/m-marqx/Hoffman-IRB" />
       <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=hoffman-irb&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Light Theme" style="width: 33%" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" /> 
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Lolalytics-Tierlist-Analyzer&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" /> 
       </a>
-
   </a>
