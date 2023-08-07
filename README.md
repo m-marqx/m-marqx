@@ -24,13 +24,13 @@
 <!-- GitHub Streaks (Default) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
-  <img src="https://streak-stats.demolab.com/?user=m-marqx&theme=github-dark&hide_border=true&border_radius=20&locale=pt_BR&mode=weekly&type=svg align="center" style="width: 100%" />
+  <img src="https://streak-stats.demolab.com/?user=m-marqx&theme=github-dark&hide_border=true&border_radius=20&locale=pt_BR&mode=weekly&type=svg" align="center" style="width: 100%" />
 </a>
 
 <!-- GitHub Streaks (Light Theme) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" >
-  <img src="https://streak-stats.demolab.com/?user=m-marqx&theme=github-light&hide_border=true&border_radius=20&locale=pt_BR&mode=weekly&type=svg align="center" style="width: 100%" />
+  <img src="https://streak-stats.demolab.com/?user=m-marqx&theme=github-light&hide_border=true&border_radius=20&locale=pt_BR&mode=weekly&type=svg" align="center" style="width: 100%" />
 </a>
 
 <br/>  
@@ -60,7 +60,7 @@
 
 <br>
 <!-- Hoffman-irb (Light Theme) -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" />
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" /> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Lolalytics-Tierlist-Analyzer&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" style="width: 45%" /> 
 </a>
