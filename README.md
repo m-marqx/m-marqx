@@ -14,7 +14,7 @@
 - 💼 Desenvolvedor quantitativo
 - 🔑 Cripto maximalista desde 2017
 - 🔭 Atualmente eu estou focado no [Hoffman - IRB](https://github.com/m-marqx/Hoffman-IRB)
-- 🌱 Também estou atualmente aprendendo Finanças Quantitativas e Machine Learning
+- 🌱 Estou atualmente aprendendo Finanças Quantitativas e Machine Learning
 - 📫 Fique à vontade para entrar em contato comigo! Sempre respondo todas as DM's no [![Instagram](https://i.imgur.com/B44uzk4.png "Instagram")](https://www.instagram.com/archie_marques/)
 
 <br/>
