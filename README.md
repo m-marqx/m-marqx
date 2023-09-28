@@ -9,9 +9,9 @@
 
 ## ✨ Sobre Mim
 
-### Mateus Marques 🎈
+### Mateus Marques 
 
-- 💼 Desenvolvedor quantitativo
+- 🎈 Desenvolvedor quantitativo
 - 🔑 Cripto maximalista desde 2017
 - 🔭 Atualmente eu estou focado no [Hoffman - IRB](https://github.com/m-marqx/Hoffman-IRB)
 - 🌱 Estou atualmente aprendendo Finanças Quantitativas e Machine Learning
