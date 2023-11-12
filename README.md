@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img src="https://github.com/m-marqx/m-marqx/blob/main/commit-snake-dark.svg" align="center" style="width: 100%" />
+      <img src="https://github.com/m-marqx/m-marqx/blob/main/snake-dark-commit.svg" align="center" style="width: 100%" />
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" />
-      <img src="https://github.com/m-marqx/m-marqx/blob/main/commit-snake-light.svg" align="center" style="width: 100%" />
+      <img src="https://github.com/m-marqx/m-marqx/blob/main/snake-light-commit.svg" align="center" style="width: 100%" />
 </div>
 
 ## ✨ Sobre Mim
