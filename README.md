@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://github.com/m-marqx#gh-dark-mode-only"/>
+  <a href="https://github.com/m-marqx#gh-dark-mode-only">
       <img src="https://github.com/m-marqx/m-marqx/blob/main/snake-dark-commit.svg" align="center" style="width: 100%" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/m-marqx#gh-light-mode-only" />
+  <a href="https://github.com/m-marqx#gh-light-mode-only">
       <img src="https://github.com/m-marqx/m-marqx/blob/main/snake-light-commit.svg" align="center" style="width: 100%" />
 </div>
 
@@ -55,7 +55,7 @@
   <a href="https://github.com/m-marqx/Hoffman-IRB#gh-dark-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
   <a href="https://github.com/m-marqx/TradingView-Indicators#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" />
   </a>
 </div>
 <br>
