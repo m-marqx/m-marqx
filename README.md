@@ -1,16 +1,16 @@
 <div align="center">
   <a href="https://github.com/m-marqx#gh-dark-mode-only">
-      <img src="https://github.com/m-marqx/m-marqx/blob/main/commit-snake-dark.svg" align="center" style="width: 100%" />
+      <img src="https://github.com/m-marqx/m-marqx/blob/main/dark-snake.svg" align="center" style="width: 100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/m-marqx#gh-light-mode-only">
-      <img src="https://github.com/m-marqx/m-marqx/blob/main/commit-snake-light.svg" align="center" style="width: 100%" />
+      <img src="https://github.com/m-marqx/m-marqx/blob/main/light-snake.svg" align="center" style="width: 100%" />
 </div>
 
 ## ✨ Sobre Mim
 
-### Mateus Marques 
+### Mateus Marques
 
 - 🎈 Desenvolvedor quantitativo
 - 🔑 Cripto maximalista desde 2017
@@ -33,7 +33,7 @@
   <img src="https://streak-stats.demolab.com/?user=m-marqx&theme=github-light&hide_border=true&border_radius=20&locale=pt_BR&mode=weekly&type=svg" align="center" style="width: 100%" />
 </a>
 
-<br/>  
+<br/>
 
 ## 📊 Estatísticas
 
