@@ -14,8 +14,8 @@
 
 - 🎈 Desenvolvedor quantitativo
 - 🔑 Cripto maximalista desde 2017
-- 🔭 Atualmente meu projeto principal é o [Hoffman - IRB](https://github.com/m-marqx/Hoffman-IRB)
-- 🌱 Aprendendo Finanças Quantitativas e Machine Learning
+- 🔭 Atualmente meu projeto principal é o [Beautiful-Model](https://github.com/m-marqx/Beautiful-Model)
+- ⭐ Foco principal em Finanças Quantitativas e Machine Learning
 - 📫 Fique à vontade para entrar em contato comigo! Sempre respondo todas as DM's no [![Instagram](https://i.imgur.com/B44uzk4.png "Instagram")](https://www.instagram.com/archie_marques/)
 - 📹 Documento o que estou codando diariamente no [![Instagram](https://i.imgur.com/B44uzk4.png "Instagram")](https://www.instagram.com/archie_marques/)
 
