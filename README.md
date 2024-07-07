@@ -48,22 +48,36 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&locale=pt-BR&layout=compact&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only" alt="Top Langs" style="width: 45%" />
 </a>
 
-## 🔧 Projetos Concluidos
+## 🔧 Projeto Concluidos
 
-<!-- Hoffman-irb Repo (Default) -->
+<!-- Completed Repo (Default) -->
 <div>
   <a href="https://github.com/m-marqx/Hoffman-IRB#gh-dark-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
+</div>
+<br>
+<!-- Completed (Light Theme) -->
+<div>
+  <a href="https://github.com/m-marqx/Hoffman-IRB#gh-light-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
+</div>
+
+## 🔨 Projetos em Progresso
+<!-- WIP Repo (Default) -->
+<div>
+  <a href="https://github.com/m-marqx/Beautiful-Model#gh-dark-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Beautiful-Model&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
   <a href="https://github.com/m-marqx/TradingView-Indicators#gh-dark-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" />
   </a>
 </div>
 <br>
-<!-- Hoffman-irb (Light Theme) -->
+<!-- WIP (Light Theme) -->
 <div>
-  <a href="https://github.com/m-marqx/Hoffman-IRB#gh-light-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
+  <a href="https://github.com/m-marqx/Beautiful-Model#gh-light-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Beautiful-Model&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
     <a href="https://github.com/m-marqx/TradingView-Indicators#gh-light-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" style="width: 45%" />
   </a>
 </div>
+
