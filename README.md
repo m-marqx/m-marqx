@@ -14,7 +14,7 @@
 
 - 🎈 Desenvolvedor quantitativo
 - 🔑 Cripto maximalista desde 2017
-- 🔭 Atualmente meu projeto principal é o [Beautiful-Model](https://github.com/m-marqx/Beautiful-Model)
+- 🔭 Atualmente meu projeto principal é o [Catboost Model Dashboard](https://github.com/m-marqx/Catboost-Model-Dashboard/)
 - ⭐ Foco principal em Finanças Quantitativas e Machine Learning
 - 📫 Fique à vontade para entrar em contato comigo! Sempre respondo todas as DM's no [![Instagram](https://i.imgur.com/B44uzk4.png "Instagram")](https://www.instagram.com/archie_marques/)
 - 📹 Documento o que estou codando diariamente no [![Instagram](https://i.imgur.com/B44uzk4.png "Instagram")](https://www.instagram.com/archie_marques/)
@@ -65,8 +65,8 @@
 ## 🔨 Projetos em Progresso
 <!-- WIP Repo (Default) -->
 <div>
-  <a href="https://github.com/m-marqx/Beautiful-Model#gh-dark-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Beautiful-Model&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
+  <a href="https://github.com/m-marqx/Catboost-Model-Dashboard/#gh-dark-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Catboost Model Dashboard&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
   <a href="https://github.com/m-marqx/TradingView-Indicators#gh-dark-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" />
   </a>
@@ -74,8 +74,8 @@
 <br>
 <!-- WIP (Light Theme) -->
 <div>
-  <a href="https://github.com/m-marqx/Beautiful-Model#gh-light-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Beautiful-Model&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
+  <a href="https://github.com/m-marqx/Catboost-Model-Dashboard/#gh-light-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Catboost Model Dashboard&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
     <a href="https://github.com/m-marqx/TradingView-Indicators#gh-light-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" style="width: 45%" />
   </a>
