@@ -63,7 +63,7 @@
   <a href="https://github.com/m-marqx/Catboost-Model-Dashboard/#gh-light-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Catboost Model Dashboard&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
   <a href="https://github.com/m-marqx/Hoffman-IRB#gh-light-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
 </div>
 
 ## 🔨 Projetos em Progresso
@@ -72,7 +72,7 @@
   <a href="https://github.com/m-marqx/TradingView-Indicators#gh-dark-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 45%" />
   <a href="https://github.com/m-marqx/ML-Miner#gh-dark-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=ML-Miner&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=ML-Miner&show_owner=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
   </a>
 </div>
 <br>
