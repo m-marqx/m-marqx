@@ -48,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&locale=pt-BR&layout=compact&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only" alt="Top Langs" style="width: 45%" />
 </a>
 
-## 🔧 Projeto Concluidos
+## 🔧 Projeto Finalizados
 
 <!-- Completed Repo (Default) -->
 <div>
