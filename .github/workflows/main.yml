@@ -14,7 +14,7 @@ on:
     - main
 
 jobs:
-  generate:
+  generate-animation:
     permissions:
       contents: write
     runs-on: ubuntu-latest
