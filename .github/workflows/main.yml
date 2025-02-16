@@ -5,13 +5,12 @@ on:
   schedule:
     - cron: "0 */8 * * *"
 
-  # allows to manually run the job at any time
+  # Allows manual triggering of the workflow via the GitHub UI
   workflow_dispatch:
 
-  # run on every push on the master branch
-  push:
+  push: # Trigger the workflow when changes are pushed
     branches:
-    - main
+      - main # Trigger only when changes are pushed to the main branch
 
 jobs:
   generate-animation:
@@ -37,4 +36,6 @@ jobs:
           build_dir: dist
           commit_message: Update GitHub contribution commit snake animation
         env:
+          # This token is automatically provided by GitHub Actions
+          # and is necessary to push changes to the repository
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
