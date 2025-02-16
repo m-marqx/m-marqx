@@ -35,5 +35,6 @@ jobs:
         with:
           target_branch: commit-snake
           build_dir: dist
+          commit_message: Update GitHub contribution commit snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
