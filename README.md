@@ -48,23 +48,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-marqx&locale=pt-BR&layout=compact&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only" alt="Top Langs" style="width: 45%" />
 </a>
 
-## 🔧 Projeto Finalizados
-
-<!-- Completed Repo (Default) -->
-<div>
-  <a href="https://github.com/m-marqx/Catboost-Model-Dashboard/#gh-dark-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Catboost-Model-Dashboard&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
-  <a href="https://github.com/m-marqx/Hoffman-IRB#gh-dark-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Main Project" style="width: 45%" />
-</div>
-<br>
-<!-- Completed (Light Theme) -->
-<div>
-  <a href="https://github.com/m-marqx/Catboost-Model-Dashboard/#gh-light-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Catboost Model Dashboard&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
-  <a href="https://github.com/m-marqx/Hoffman-IRB#gh-light-mode-only">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
-</div>
 
 ## 🔨 Projetos em Progresso
 <!-- WIP Repo (Default) -->
@@ -82,7 +65,27 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=TradingView-Indicators&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" style="width: 45%" />
   <a href="https://github.com/m-marqx/ML-Miner#gh-light-mode-only">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=ML-Miner&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Main Project" style="width: 45%" />
-  </a>
-  </a>
+</div>
+
+## 🔧 Projeto Finalizados
+
+<!-- Completed Repo (Default) -->
+<div>
+  <a href="https://github.com/m-marqx/Catboost-Model-Dashboard/#gh-dark-mode-only" alt="Web Page">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Catboost-Model-Dashboard&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Web Page" style="width: 45%" />
+  <a href="https://github.com/m-marqx/Hoffman-IRB#gh-dark-mode-only" alt="Web Page">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Web Page" style="width: 45%" />
+  <a href="https://github.com/m-marqx/CryptoExplorer#gh-dark-mode-only" alt="Python Library">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=CryptoExplorer&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Python Library" style="width: 45%" />
+</div>
+<br>
+<!-- Completed (Light Theme) -->
+<div>
+  <a href="https://github.com/m-marqx/Catboost-Model-Dashboard/#gh-light-mode-only" alt="Web Page">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Catboost Model Dashboard&show_owner=true&show_icons=true&theme=default#gh-light-mode-only" alt="Web Page" style="width: 45%" />
+  <a href="https://github.com/m-marqx/Hoffman-IRB#gh-light-mode-only" alt="Web Page">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&theme=default#gh-light-mode-only" alt="Web Page" style="width: 45%" />
+  <a href="https://github.com/m-marqx/CryptoExplorer#gh-light-mode-only" alt="Python Library">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=CryptoExplorer&show_owner=true&theme=default#gh-light-mode-only" alt="Python Library" style="width: 45%" />
 </div>
 
