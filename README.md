@@ -77,6 +77,9 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Web Page" style="width: 45%" />
   <a href="https://github.com/m-marqx/CryptoExplorer#gh-dark-mode-only" alt="Python Library">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=CryptoExplorer&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Python Library" style="width: 45%" />
+  <a href="https://github.com/m-marqx/MX-Swap#gh-dark-mode-only" alt="Python Library">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=MX-Swap&show_owner=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Python Library" style="width: 45%" />
+
 </div>
 <br>
 <!-- Completed (Light Theme) -->
@@ -87,5 +90,8 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=Hoffman-Irb&show_owner=true&theme=default#gh-light-mode-only" alt="Web Page" style="width: 45%" />
   <a href="https://github.com/m-marqx/CryptoExplorer#gh-light-mode-only" alt="Python Library">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=CryptoExplorer&show_owner=true&theme=default#gh-light-mode-only" alt="Python Library" style="width: 45%" />
+  <a href="https://github.com/m-marqx/MX-Swap#gh-light-mode-only" alt="Python Library">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-marqx&locale=pt-BR&repo=MX-Swap&show_owner=true&theme=default#gh-light-mode-only" alt="Python Library" style="width: 45%" />
+
 </div>
 
