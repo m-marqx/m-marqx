@@ -17,7 +17,6 @@
 - 🔭 Atualmente meu projeto principal é o [ML Miner](https://github.com/m-marqx/ML-Miner)
 - ⭐ Foco principal em Finanças Quantitativas e Machine Learning
 - 📫 Fique à vontade para entrar em contato comigo! Sempre respondo todas as DM's no [![Instagram](https://i.imgur.com/B44uzk4.png "Instagram")](https://www.instagram.com/archie_marques/)
-- 📹 Documento o que estou codando diariamente no [![Instagram](https://i.imgur.com/B44uzk4.png "Instagram")](https://www.instagram.com/archie_marques/)
 
 <br/>
 
